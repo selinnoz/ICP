@@ -1,2 +1,2 @@
 # ICP
-ICP workshop project 
+ICP Rise in workshop project 
